@@ -1,2 +1,2 @@
 # Springboot_WebApp
-Backend of springboot and angularjs project
+Backend of springboot and angular project
